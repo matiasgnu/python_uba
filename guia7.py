@@ -1,7 +1,3 @@
-def imprimirLetras(palabra: str):
-    for l in palabra:
-        print(l)
-
 # imprimirLetras("palabra")
 
 def pertenece(sec: list, el: int):
